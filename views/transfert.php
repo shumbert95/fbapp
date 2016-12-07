@@ -30,7 +30,7 @@
 			</div>
 			<div class="row center-block" id ="listephotos">
 				<div class="col-md-4" >
-					<img class="crop image-transfert" data-toggle="modal" data-target="#myModal" style="background-image: url('/img/placeholder.jpg')";>
+					<img class="crop image-transfert" data-toggle="modal" data-target="#myModal" style="background-image: url('/public/img/placeholder.jpg')";>
 					<div id="myModal" class="modal fade" role="dialog">
 	  					<div class="modal-dialog">
 							<div class="modal-content">
@@ -39,7 +39,7 @@
 									<h4 class="modal-title">Photo</h4>
 								</div>
 								<div class="modal-body">
-									<img class="image-grande" src="/img/placeholder.jpg">
+									<img class="image-grande" src="/public/img/placeholder.jpg">
 								</div>
 								<div class="modal-footer">
 									<button type="button" class="btn btn-secondary" id="selectionner"> Sélectionner </button>
@@ -49,10 +49,10 @@
 					</div>
 				</div>
 				<div class="col-md-4">
-					<img class="crop image-transfert" data-toggle="modal" data-target="#myModal" style="background-image: url('/img/placeholder.jpg')";>
+					<img class="crop image-transfert" data-toggle="modal" data-target="#myModal" style="background-image: url('/public/img/placeholder.jpg')";>
 				</div>
 				<div class="col-md-4">
-					<img class="crop image-transfert" data-toggle="modal" data-target="#myModal" style="background-image: url('/img/placeholder.jpg')";>
+					<img class="crop image-transfert" data-toggle="modal" data-target="#myModal" style="background-image: url('/public/img/placeholder.jpg')";>
 				</div>
 			</div>
 			<div class="row text-center">

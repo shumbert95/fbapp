@@ -28,7 +28,7 @@
             </div>
             <ul class="list-photos">
                 <li class="col-md-4 picture-block">
-                    <img src="../public/img/img_fjords.jpg">
+                    <img src="../public/img/image1.jpg">
                     <div class="picture-info">
                         <span class="nb-likes col-md-4">15 <span class="glyphicon glyphicon-heart"></span></span>
                         <span class="picture-owner col-md-4">Clément S.</span>
@@ -36,35 +36,35 @@
                     </div>
                 </li>
                 <li class="col-md-4 picture-block">
-                    <img src="../public/img/img_fjords.jpg">
+                    <img src="../public/img/image1.jpg">
                     <div class="picture-info">
                         <span class="nb-likes col-md-4">15 <span class="glyphicon glyphicon-heart"></span></span>
                         <span class="picture-owner col-md-4">Clément S.</span>
                         <span class="date-add col-md-4">10/12/2016</span>
                     </div>                </li>
                 <li class="col-md-4 picture-block">
-                    <img src="../public/img/img_fjords.jpg">
+                    <img src="../public/img/image1.jpg">
                     <div class="picture-info">
                         <span class="nb-likes col-md-4">15 <span class="glyphicon glyphicon-heart"></span></span>
                         <span class="picture-owner col-md-4">Clément S.</span>
                         <span class="date-add col-md-4">10/12/2016</span>
                     </div>                </li>
                 <li class="col-md-4 picture-block">
-                    <img src="../public/img/img_fjords.jpg">
+                    <img src="../public/img/image1.jpg">
                     <div class="picture-info">
                         <span class="nb-likes col-md-4">15 <span class="glyphicon glyphicon-heart"></span></span>
                         <span class="picture-owner col-md-4">Clément S.</span>
                         <span class="date-add col-md-4">10/12/2016</span>
                     </div>                </li>
                 <li class="col-md-4 picture-block">
-                    <img src="../public/img/img_fjords.jpg">
+                    <img src="../public/img/image1.jpg">
                     <div class="picture-info">
                         <span class="nb-likes col-md-4">15 <span class="glyphicon glyphicon-heart"></span></span>
                         <span class="picture-owner col-md-4">Clément S.</span>
                         <span class="date-add col-md-4">10/12/2016</span>
                     </div>                </li>
                 <li class="col-md-4 picture-block">
-                    <img src="../public/img/img_fjords.jpg">
+                    <img src="../public/img/image1.jpg">
                     <div class="picture-info">
                         <span class="nb-likes col-md-4">15 <span class="glyphicon glyphicon-heart"></span></span>
                         <span class="picture-owner col-md-4">Clément S.</span>
