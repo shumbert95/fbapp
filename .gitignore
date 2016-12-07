@@ -20,3 +20,5 @@ config.php
 
 #idea
 .idea/
+
+db.php
